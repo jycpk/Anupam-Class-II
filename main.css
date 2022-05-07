@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+}
+
+nav > li {
+  margin-right: 10px;
+  list-style-type: none;
+  background-color: #20c;
+  padding: 5px;
+  border-radius: 5px
+}
+
+nav > li > a {
+  color: #fff;
+  text-decoration: none;
+}
