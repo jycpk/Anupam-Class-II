@@ -2,6 +2,16 @@ body {
   background-color: #d3d3d3
 }
 
+button {
+  margin-top: 5px;
+}
+
+li {
+  color: #20c20e;
+  text-transform: Capitalize;
+  font-size: 20px;
+}
+
 .container {
   margin: 0 auto 0 auto;
   max-width: 60%;
@@ -26,7 +36,7 @@ nav > li {
   border-radius: 5px
 }
 
-nav > li > a {
+nav > li > a            {
   color: #fff;
   text-decoration: none;
 }
@@ -40,4 +50,17 @@ nav > li > a {
   border-radius: 2px;
 
   text-transform: capitalize;
+}
+.anupam > a {
+  background-color: #F40076;
+  text-decoration: none;
+  color: #000;
+  border-radius: 6px;
+  padding: 5px;
+}
+.king > a {
+  background-color: #454ADE;
+  color: #B9F18C;
+  padding: 5px;
+  border-radius: 6px;
 }
